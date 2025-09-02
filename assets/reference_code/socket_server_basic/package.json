@@ -1,0 +1,14 @@
+{
+	"name": "socket_server_basic",
+	"dependencies": {
+		"hono": "^4.8.3",
+		"pusher": "^5.2.0",
+		"pusher-js": "^8.4.0"
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	}
+}

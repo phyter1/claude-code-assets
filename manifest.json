@@ -1,0 +1,304 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-09-02T02:03:58.935Z",
+  "agents": [
+    {
+      "name": "typescript-test-developer",
+      "filename": "typescript-test-developer.md",
+      "size": 7189,
+      "description": "Generate and maintain tests"
+    },
+    {
+      "name": "typescript-reference-developer",
+      "filename": "typescript-reference-developer.md",
+      "size": 9976,
+      "description": "Generate reference implementations"
+    },
+    {
+      "name": "task-documenter",
+      "filename": "task-documenter.md",
+      "size": 8440,
+      "description": "Create comprehensive documentation"
+    },
+    {
+      "name": "typescript-developer",
+      "filename": "typescript-developer.md",
+      "size": 9466,
+      "description": "Implement complex TypeScript features"
+    },
+    {
+      "name": "react-developer",
+      "filename": "react-developer.md",
+      "size": 6611,
+      "description": "Expert React and Next.js development"
+    },
+    {
+      "name": "test-task-planner",
+      "filename": "test-task-planner.md",
+      "size": 6639,
+      "description": "Create comprehensive test plans"
+    },
+    {
+      "name": "task-breakdown",
+      "filename": "task-breakdown.md",
+      "size": 6133,
+      "description": "Break down complex tasks into subtasks"
+    },
+    {
+      "name": "system-architect",
+      "filename": "system-architect.md",
+      "size": 9424,
+      "description": "Design and architect applications"
+    },
+    {
+      "name": "docs-researcher",
+      "filename": "docs-researcher.md",
+      "size": 8934,
+      "description": "Research documentation for JS/TS libraries"
+    },
+    {
+      "name": "typescript-code-reviewer",
+      "filename": "typescript-code-reviewer.md",
+      "size": 9699,
+      "description": "Review TypeScript code quality"
+    },
+    {
+      "name": "task-planner",
+      "filename": "task-planner.md",
+      "size": 8213,
+      "description": "Plan complex TypeScript development tasks"
+    }
+  ],
+  "docs": [
+    {
+      "name": "claude-code-headless-authentication",
+      "filename": "claude-code-headless-authentication.md",
+      "size": 11366,
+      "description": "claude code headless authentication.md",
+      "category": "Claude Code"
+    },
+    {
+      "name": "claude-code-comprehensive-analysis",
+      "filename": "claude-code-comprehensive-analysis.md",
+      "size": 12280,
+      "description": "claude code comprehensive analysis.md",
+      "category": "Claude Code"
+    },
+    {
+      "name": "tanstack-router",
+      "filename": "tanstack-router.md",
+      "size": 10083,
+      "description": "tanstack router.md",
+      "category": "General"
+    },
+    {
+      "name": "pusher-websockets",
+      "filename": "pusher-websockets.md",
+      "size": 9747,
+      "description": "pusher websockets.md",
+      "category": "TypeScript"
+    },
+    {
+      "name": "zustand",
+      "filename": "zustand.md",
+      "size": 40650,
+      "description": "zustand.md",
+      "category": "General"
+    },
+    {
+      "name": "hono-zod-openapi",
+      "filename": "hono-zod-openapi.md",
+      "size": 56636,
+      "description": "hono zod openapi.md",
+      "category": "API"
+    },
+    {
+      "name": "shadcn-ui",
+      "filename": "shadcn-ui.md",
+      "size": 33791,
+      "description": "shadcn ui.md",
+      "category": "UI/Styling"
+    },
+    {
+      "name": "tailwindcss",
+      "filename": "tailwindcss.md",
+      "size": 24702,
+      "description": "tailwindcss.md",
+      "category": "UI/Styling"
+    },
+    {
+      "name": "commander",
+      "filename": "commander.md",
+      "size": 18480,
+      "description": "commander.md",
+      "category": "General"
+    },
+    {
+      "name": "vite-react",
+      "filename": "vite-react.md",
+      "size": 8102,
+      "description": "vite react.md",
+      "category": "React/Next.js"
+    },
+    {
+      "name": "blessed-contrib",
+      "filename": "blessed-contrib.md",
+      "size": 13389,
+      "description": "blessed contrib.md",
+      "category": "General"
+    },
+    {
+      "name": "nextjs",
+      "filename": "nextjs.md",
+      "size": 48034,
+      "description": "nextjs.md",
+      "category": "React/Next.js"
+    },
+    {
+      "name": "claude-code-global-hooks",
+      "filename": "claude-code-global-hooks.md",
+      "size": 17474,
+      "description": "claude code global hooks.md",
+      "category": "Claude Code"
+    },
+    {
+      "name": "bun-build-compile",
+      "filename": "bun-build-compile.md",
+      "size": 8819,
+      "description": "bun build compile.md",
+      "category": "Bun"
+    },
+    {
+      "name": "blessed",
+      "filename": "blessed.md",
+      "size": 12233,
+      "description": "blessed.md",
+      "category": "General"
+    },
+    {
+      "name": "drizzle-orm",
+      "filename": "drizzle-orm.md",
+      "size": 28410,
+      "description": "drizzle orm.md",
+      "category": "Database"
+    },
+    {
+      "name": "claude-code-sdk-authentication",
+      "filename": "claude-code-sdk-authentication.md",
+      "size": 11704,
+      "description": "claude code sdk authentication.md",
+      "category": "Claude Code"
+    },
+    {
+      "name": "claude-code-docker-pro-subscription",
+      "filename": "claude-code-docker-pro-subscription.md",
+      "size": 29122,
+      "description": "claude code docker pro subscription.md",
+      "category": "Claude Code"
+    },
+    {
+      "name": "bun-executable-size-reduction",
+      "filename": "bun-executable-size-reduction.md",
+      "size": 10675,
+      "description": "bun executable size reduction.md",
+      "category": "Bun"
+    },
+    {
+      "name": "zod",
+      "filename": "zod.md",
+      "size": 41051,
+      "description": "zod.md",
+      "category": "General"
+    },
+    {
+      "name": "react-hook-form",
+      "filename": "react-hook-form.md",
+      "size": 62376,
+      "description": "react hook form.md",
+      "category": "React/Next.js"
+    },
+    {
+      "name": "biome",
+      "filename": "biome.md",
+      "size": 19907,
+      "description": "biome.md",
+      "category": "General"
+    },
+    {
+      "name": "scalar-hono-api-reference",
+      "filename": "scalar-hono-api-reference.md",
+      "size": 20119,
+      "description": "scalar hono api reference.md",
+      "category": "API"
+    },
+    {
+      "name": "tanstack-query",
+      "filename": "tanstack-query.md",
+      "size": 42777,
+      "description": "tanstack query.md",
+      "category": "General"
+    },
+    {
+      "name": "bun-typescript-monorepo",
+      "filename": "bun-typescript-monorepo.md",
+      "size": 8026,
+      "description": "bun typescript monorepo.md",
+      "category": "Bun"
+    },
+    {
+      "name": "bun-workspaces",
+      "filename": "bun-workspaces.md",
+      "size": 4073,
+      "description": "bun workspaces.md",
+      "category": "Bun"
+    },
+    {
+      "name": "claude-code-typescript-sdk",
+      "filename": "claude-code-typescript-sdk.md",
+      "size": 19931,
+      "description": "claude code typescript sdk.md",
+      "category": "Claude Code"
+    },
+    {
+      "name": "tanstack-store",
+      "filename": "tanstack-store.md",
+      "size": 7067,
+      "description": "tanstack store.md",
+      "category": "General"
+    },
+    {
+      "name": "reference-implementation",
+      "filename": "reference-implementation.md",
+      "size": 6858,
+      "description": "reference implementation.md",
+      "category": "General"
+    },
+    {
+      "name": "date-fns",
+      "filename": "date-fns.md",
+      "size": 26606,
+      "description": "date fns.md",
+      "category": "General"
+    },
+    {
+      "name": "chalk",
+      "filename": "chalk.md",
+      "size": 13035,
+      "description": "chalk.md",
+      "category": "General"
+    }
+  ],
+  "reference": [
+    {
+      "name": "socket_server_basic",
+      "files": [
+        "node_modules",
+        "bun.lock",
+        "package.json",
+        "tsconfig.json",
+        "src"
+      ],
+      "description": "socket server basic"
+    }
+  ]
+}
