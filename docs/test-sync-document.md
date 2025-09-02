@@ -9,6 +9,13 @@ This is a test document created to verify the Claude assets sync functionality.
 
 ## Timestamp
 Created at: 2025-09-01 23:30:00
+Updated at: 2025-09-01 23:40:00
+
+## Update Test
+This section was added to test that document updates are also synced correctly.
+
+### Debug Test
+Adding another update to test debugging and see what paths are being detected.
 
 ## Features Being Tested
 1. File creation detection
